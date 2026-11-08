@@ -2,9 +2,9 @@
 
 Hi, I'm Pradip 👋
 
-I'm a product manager, finance professional, and graduate student exploring the intersection of computer science, artificial intelligence, and technology.
+I'm a product manager and graduate student exploring the intersection of computer science, artificial intelligence, and finance.
 
-I bring a background in business, finance, and product management, with experience building enterprise AI products and working on technology initiatives at **JPMorgan Chase**. I'm currently pursuing an **M.S. in Computer Science & Artificial Intelligence at Boston University**, developing a deeper understanding of the foundations behind the systems and products I work with.
+I bring a background in business, finance, and product management, with experience building enterprise AI products and working on technology initiatives at **JPMorgan Chase**. I'm currently pursuing an **M.S. in Computer Science & Artificial Intelligence at Boston University**to deepen my understanding of the foundations behind the systems and products I work with.
 
 ### 🎓 Background
 
@@ -46,7 +46,7 @@ Some areas I'd like to explore further include:
 
 ### 🎯 Current Goals
 
-My current focus is on strengthening my computer science fundamentals, becoming a more capable programmer, and developing a deeper understanding of software and systems architecture.
+My current focus is strengthening my computer science fundamentals, becoming a more capable programmer, and deepening my understanding of software and systems architecture.
 
 Longer term, I want to combine my experience in product management and financial technology with stronger technical capabilities to help build intelligent, scalable, and impactful technology products.
 
